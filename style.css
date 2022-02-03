@@ -168,25 +168,27 @@ last page
   height: 30vh;
 }
 .num2 {
-  position: absolute;
+  position: relative;
   left: 8vw;
   font-size: 150px;
-  bottom: 5%;
+  bottom: 13%;
   color: rgba(10, 5, 5, 0.3);
 }
 .heading2 {
   font-size: 5vw;
   position: absolute;
   left: 26vw;
-  bottom: 5%;
+  bottom: 16%;
   color: #657999;
 }
 .text2 {
   position: absolute;
   left: 44%;
-  top: 45%;
+  top: 29%;
   color: #2e2d2d;
+  font-size: 18px;
 }
+
 .lastpage {
   height: 80vh;
   position: relative;
@@ -266,7 +268,7 @@ table {
   .text2 {
     position: absolute;
     left: 50%;
-    top: 45%;
+    top: 29%;
     color: #2e2d2d;
   }
   .block {
@@ -357,22 +359,22 @@ table {
   }
   .num2 {
     position: absolute;
-    left: 8vw;
-    font-size: 100px;
-    bottom: 5%;
+    left: 0vw;
+    font-size: 96px;
+    bottom: 0%;
     color: rgba(10, 5, 5, 0.3);
   }
   .heading2 {
     font-size: 5vw;
     position: absolute;
-    left: 35vw;
-    bottom: 31%;
+    left: 26vw;
+    bottom: 18%;
     color: #657999;
   }
   .text2 {
     position: absolute;
-    left: 57%;
-    top: 40%;
+    left: 46%;
+    top: 59%;
     color: #2e2d2d;
     font-size: 11px;
   }
