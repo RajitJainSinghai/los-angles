@@ -1,7 +1,7 @@
 # los-angles
 
 Learn about HTML / CSS.
-[Visit Demo Website Hosted by Heroku](https://los-angeles.herokuapp.com/)
+[Visit Demo Website Hosted by Heroku](https://losangelos-mountain.netlify.app/)
 
 ## Tech used
 
