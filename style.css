@@ -178,7 +178,7 @@ last page
   font-size: 5vw;
   position: absolute;
   left: 26vw;
-  bottom: 30%;
+  bottom: 5%;
   color: #657999;
 }
 .text2 {
@@ -260,7 +260,7 @@ table {
     font-size: 5vw;
     position: absolute;
     left: 32vw;
-    bottom: 40%;
+    bottom: 28%;
     color: #657999;
   }
   .text2 {
@@ -365,8 +365,8 @@ table {
   .heading2 {
     font-size: 5vw;
     position: absolute;
-    left: 40vw;
-    bottom: 23%;
+    left: 35vw;
+    bottom: 31%;
     color: #657999;
   }
   .text2 {
